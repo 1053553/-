@@ -1,0 +1,7 @@
+F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\bin\Debug\OASystemManageDAL.dll
+F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\bin\Debug\OASystemManageDAL.pdb
+F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\bin\Debug\OASystemManageModles.dll
+F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\bin\Debug\OASystemManageModles.pdb
+F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\obj\Debug\OASystemManageDAL.csprojResolveAssemblyReference.cache
+F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\obj\Debug\OASystemManageDAL.dll
+F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\obj\Debug\OASystemManageDAL.pdb
