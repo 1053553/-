@@ -5,3 +5,12 @@ F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\bin\D
 F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\obj\Debug\OASystemManageDAL.csprojResolveAssemblyReference.cache
 F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\obj\Debug\OASystemManageDAL.dll
 F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageDAL\obj\Debug\OASystemManageDAL.pdb
+E:\-\OASystemManageDAL\bin\Debug\OASystemManageDAL.dll
+E:\-\OASystemManageDAL\bin\Debug\OASystemManageDAL.pdb
+E:\-\OASystemManageDAL\bin\Debug\OASystemManageModles.dll
+E:\-\OASystemManageDAL\bin\Debug\OASystemManageModles.pdb
+E:\-\OASystemManageDAL\obj\Debug\OASystemManageDAL.csprojAssemblyReference.cache
+E:\-\OASystemManageDAL\obj\Debug\OASystemManageDAL.csproj.CoreCompileInputs.cache
+E:\-\OASystemManageDAL\obj\Debug\OASystemManageDAL.csproj.CopyComplete
+E:\-\OASystemManageDAL\obj\Debug\OASystemManageDAL.dll
+E:\-\OASystemManageDAL\obj\Debug\OASystemManageDAL.pdb
