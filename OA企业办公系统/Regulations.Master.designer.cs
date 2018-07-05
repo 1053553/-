@@ -10,7 +10,7 @@
 namespace OA企业办公系统 {
     
     
-    public partial class ComTimeset {
+    public partial class Regulations {
         
         /// <summary>
         /// head 控件。

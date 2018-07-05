@@ -3,3 +3,9 @@ F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageModles\bi
 F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageModles\obj\Debug\OASystemManageModles.csprojResolveAssemblyReference.cache
 F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageModles\obj\Debug\OASystemManageModles.dll
 F:\ASP.NET期末项目\期末项目\OA企业办公系统\OASystemManageModles\obj\Debug\OASystemManageModles.pdb
+E:\-\OASystemManageModles\bin\Debug\OASystemManageModles.dll
+E:\-\OASystemManageModles\bin\Debug\OASystemManageModles.pdb
+E:\-\OASystemManageModles\obj\Debug\OASystemManageModles.csprojAssemblyReference.cache
+E:\-\OASystemManageModles\obj\Debug\OASystemManageModles.csproj.CoreCompileInputs.cache
+E:\-\OASystemManageModles\obj\Debug\OASystemManageModles.dll
+E:\-\OASystemManageModles\obj\Debug\OASystemManageModles.pdb

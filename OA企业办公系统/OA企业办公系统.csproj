@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -66,9 +67,13 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AmendmentRegulations.aspx" />
     <Content Include="ComTimeset.aspx" />
     <Content Include="packages.config" />
     <Content Include="ComTimeset.Master" />
+    <Content Include="Regulations.aspx" />
+    <Content Include="Regulations.Master" />
+    <Content Include="AmendmentRegulations.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -83,6 +88,20 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AmendmentRegulations.aspx.cs">
+      <DependentUpon>AmendmentRegulations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AmendmentRegulations.aspx.designer.cs">
+      <DependentUpon>AmendmentRegulations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AmendmentRegulations.Master.cs">
+      <DependentUpon>AmendmentRegulations.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AmendmentRegulations.Master.designer.cs">
+      <DependentUpon>AmendmentRegulations.Master</DependentUpon>
+    </Compile>
     <Compile Include="ComTimeset.aspx.cs">
       <DependentUpon>ComTimeset.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -101,6 +120,20 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Regulations.aspx.cs">
+      <DependentUpon>Regulations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Regulations.aspx.designer.cs">
+      <DependentUpon>Regulations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Regulations.Master.cs">
+      <DependentUpon>Regulations.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Regulations.Master.designer.cs">
+      <DependentUpon>Regulations.Master</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
